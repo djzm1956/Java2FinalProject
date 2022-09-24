@@ -274,26 +274,4 @@ public class AddStudentPanel extends JFrame {
             addStudent();
         }
     }
-
-    /*
-    private class radioButtonHandler implements ActionListener
-    {
-        public void actionPerformed(ActionEvent e4)
-        {
-            if(fullTimeRB.isSelected())
-            {
-                s.setStudentType(Student.StudentType.FULLTIME);
-            }
-            else
-            if(partTimeRB.isSelected())
-            {
-                s.setStudentType(Student.StudentType.PARTTIME);
-            }
-            else
-            if(noMajorRB.isSelected())
-            {
-               s.type =(Student.StudentType.NOMAJOR);
-            }
-        }
-     */
 }
