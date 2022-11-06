@@ -1,1 +1,1 @@
-# Java2FinalProject
+# Java2FinalProject: Student Management System
